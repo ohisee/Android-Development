@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "allowed.path",
+    "type": "java.lang.String",
+    "description": "A description for 'allowed.path'"
+  },
+  {
+    "name": "allowed.origin",
+    "type": "java.lang.String",
+    "description": "A description for 'allowed.origin'"
+  },
+  {
+    "name": "allowed.headers",
+    "type": "java.lang.String",
+    "description": "A description for 'allowed.headers'"
+  },
+  {
+    "name": "allowed.methods",
+    "type": "java.lang.String",
+    "description": "A description for 'allowed.methods'"
+  }
+]}
