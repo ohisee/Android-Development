@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sólo Java Tea</string>
+    <string name="order">Ordenar</string>
+    <string name="email">Enviar</string>
+    <string name="quantity">Cantidad</string>
+    <string name="whip">Crema batida</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="thanks">Gracias!</string>
+    <string name="toppings">Ingrediente</string>
+</resources>
