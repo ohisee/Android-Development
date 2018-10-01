@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Movie Poster</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Mark As\nFavorite</string>
+
+    <string name="trailer">Trailer</string>
+    <string name="trailers">Trailers</string>
+
+    <string name="movie_title_line"><xliff:g example="Run" id="movieTitle">%s</xliff:g></string>
+    <string name="movie_release_year"><xliff:g example="2000" id="movieReleaseYear">%s</xliff:g></string>
+    <string name="movie_length"><xliff:g example="120min" id="movieLength">%s min</xliff:g></string>
+    <string name="movie_rating"><xliff:g example="6.9" id="movieRating">%s</xliff:g></string>
+    <string name="movie_detail"><xliff:g example="Details" id="movieDetail">%s</xliff:g></string>
+    <string name="movie_trailer"><xliff:g example="Trailer" id="movieTrailer">%s</xliff:g></string>
+    <string name="movie_trailer_name"><xliff:g example="Trailer Name" id="movieTrailerName">%s</xliff:g></string>
+</resources>

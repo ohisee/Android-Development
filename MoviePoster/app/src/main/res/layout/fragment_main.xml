@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              tools:context=".MainActivityFragment">
+
+    <GridView
+        android:id="@+id/gridview"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginLeft="@dimen/grid_view_space"
+        android:layout_marginRight="@dimen/grid_view_space"
+        android:clickable="true"
+        android:focusable="true"
+        android:gravity="center"
+        android:horizontalSpacing="@dimen/grid_view_space"
+        android:numColumns="@integer/grid_rows"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="@dimen/grid_view_space"/>
+
+    <ProgressBar
+        android:id="@+id/poster_images_progressbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"/>
+
+</LinearLayout>
